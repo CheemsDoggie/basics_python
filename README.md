@@ -18,13 +18,9 @@ jupyter notebook
 
 4. Links Referencia:
   - https://codigofacilito.com/articulos/decoradores-python
-
   - https://codigofacilito.com/cursos/python-profesional
-
   - https://ellibrodepython.com
-
   - https://aprendepython.es/
-
   - https://realpython.com/best-python-books/
-
   - https://www.askpython.com
+  - https://geekflare.com/python-unpacking-operators/
