@@ -1,4 +1,4 @@
-# Introduccion a Python
+# Introducción a Python
 
 Para realizar el taller se pueden seguir las siguientes opciones:
 
