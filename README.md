@@ -16,10 +16,15 @@ jupyter notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carogomezt/IntroduccionPython/master?filepath=Introduccion_Python.ipynb)
 
-
+4. Links Referencia:
 ● https://codigofacilito.com/articulos/decoradores-python
+
 ● https://codigofacilito.com/cursos/python-profesional
+
 ● https://ellibrodepython.com
+
 ● https://aprendepython.es/
+
 ● https://realpython.com/best-python-books/
+
 ● https://www.askpython.com
